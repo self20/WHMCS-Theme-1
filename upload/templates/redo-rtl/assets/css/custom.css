@@ -1,0 +1,36 @@
+/* *****************************************************
+
+    ** Custom Stylesheet **
+
+    Any custom styling you want to apply should be
+    defined here.
+
+***************************************************** */
+.intl-tel-input.separate-dial-code .selected-dial-code {
+    padding-left: 0;
+    padding-right: 28px;
+}
+
+.intl-tel-input .selected-flag {
+    padding: 0 8px 0 0;
+}
+
+.intl-tel-input .selected-flag .iti-arrow {
+    right: auto;
+    left: 6px;
+}
+
+.intl-tel-input .country-list {
+    text-align: right;
+}
+
+.intl-tel-input .country-list .flag-box, .intl-tel-input .country-list .country-name {
+    margin-right: auto;
+	margin-left: 6px;
+}
+
+.intl-tel-input .country-list {
+    right: auto;
+    left: 0;
+    z-index: 2;
+}

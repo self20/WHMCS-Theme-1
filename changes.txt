@@ -1,0 +1,197 @@
+Version - 1.0.3 - Released date 10th January, 2018
+============================================================================
+Upgraded for WHMCS 7.4.2
+
+This is the recommended version for all new installs & upgrades from any earlier version.
+To update your current version of Redo (1.0.2) please read following below:  
+
+
+Template file changed -
+========================================================
+
+(Replaced all below files)
+================================
+assets/js/scripts.js
+assets/js/scripts.min.js
+
+
+Order forms changed -
+(replaced all files and folders)
+================================
+/redo-default/js/*
+/redo-default/checkout.tpl
+
+/redo-default-rtl/js/*
+/redo-default-rtl/checkout.tpl
+
+
+
+
+
+Please Note:
+after update you must required clear template caches and hard refresh your browser,
+Its better if you clear your browser history, cookies and caches also.
+
+========================================================
+
+Thank you very much!
+If you have any suggestion or feedback please contact us by ticket.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Version - 1.0.2 - Released date 16th November, 2017
+============================================================================
+Upgraded for WHMCS 7.4.1
+
+This is the recommended version for all new installs & upgrades from any earlier version.
+To update your current version of Redo (1.0.1) please read following below:  
+
+
+Template file changed -
+========================================================
+Edit header.tpl - line number 33 (added data-phone-cc-input="{$phoneNumberInputStyle}" in body tag)
+
+(Replaced all below files)
+================================
+creditcard.tpl
+knowledgebase.tpl
+
+store/*
+oauth/*
+
+assets/css/whmcs.css
+assets/css/whmcs.min.css
+
+assets/js/scripts.js
+assets/js/scripts.min.js
+assets/js/whmcs.js
+
+New Imgaes added
+================================
+assets/img/flags.png
+assets/img/flags@2x.png
+
+Order forms changed -
+(replaced all files and folders)
+================================
+/js/*
+/css/*
+/checkout.tpl
+/domainregister.tpl
+
+
+New file added (optional)
+--------------------
+index.php (in all sub directories in template and order form.)
+
+
+
+
+Please Note:
+after update you must required clear template caches and hard refresh your browser,
+Its better if you clear your browser history, cookies and caches also.
+
+========================================================
+
+Thank you very much!
+If you have any suggestion or feedback please contact us by ticket.
+
+
+
+
+
+
+
+
+
+
+
+
+Version - 1.0.1 - Released date 5th October, 2017
+============================================================================
+Upgraded for WHMCS 7.3.0
+
+This is the recommended version for all new installs & upgrades from any earlier version.
+To update your current version of Redo (1.0) please read following below:  
+
+
+Template file changed -
+========================================================
+
+(Replaced all below files)
+================================
+clientareaaddcontact.tpl
+clientareacontacts.tpl
+clientareacreditcard.tpl
+clientareasecurity.tpl
+clientregister.tpl
+knowledgebasearticle.tpl
+login.tpl
+twitterfeed.tpl
+viewinvoice.tpl
+
+includes/captcha.tpl
+includes/verifyemail.tpl
+
+error/page-not-found.tpl
+
+store/spamexperts/index.tpl
+store/ssl/dv.tpl
+store/ssl/ev.tpl
+store/ssl/index.tpl
+store/ssl/ov.tpl
+store/ssl/wildcard.tpl
+store/weebly/index.tpl
+store/weebly/upgrade.tpl
+
+New file added
+--------------------
+includes/linkedaccounts.tpl
+
+
+assets/css/whmcs.css
+assets/css/whmcs.min.css
+assets/css/invoice.css
+
+assets/js/scripts.js
+assets/js/scripts.min.js
+assets/js/whmcs.js
+
+
+Order forms changed -
+(replaced all files and folders)
+================================
+/js/*
+/css/*
+/viewcart.tpl
+/checkout.tpl
+
+New file added
+--------------------
+/linkedaccounts.tpl
+
+================================
+
+Please Note:
+after update you must required clear template caches and hard refresh your browser,
+Its better if you clear your browser history, cookies and caches also.
+
+========================================================
+
+Thank you very much!
+If you have any suggestion or feedback please contact us by ticket.
+
