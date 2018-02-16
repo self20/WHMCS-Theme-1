@@ -48,12 +48,14 @@
 						</ul>
 						<ul class="list-unstyled list-inline visible-xs">
 							<li>
+{*
 								<span  class="tooltip-primary" data-placement="right" data-rel="tooltip" title="+ 91 124 2250121">
 									<i class="fa fa-phone"></i>
+*}
 								</span>
 							</li>
 							<li>
-								<span  class="tooltip-primary" data-placement="right" data-rel="tooltip" title="info@example.com">
+								<span  class="tooltip-primary" data-placement="right" data-rel="tooltip" title="contact@miownsite.com">
 									<i class="fa fa-envelope-o"></i>	
 								</span>
 							</li>

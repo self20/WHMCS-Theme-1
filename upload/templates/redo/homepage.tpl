@@ -14,7 +14,7 @@
 				<div class="container-fluid position-relative">
 					<div class="call-action hidden-xs">
 						<div class="massage">
-							<h4>Call one of our experts now: (555) 984-3600</h4>
+							<h4>mīownsīte is currently under development</h4>
 						</div>
 					</div>
 				</div>
@@ -417,7 +417,7 @@
 		
 		<div class="block-s3 padding4x">
 			<div class="container">
-				<h1 class="text-center text-uppercase bolder">What <span class="text-secondary text-underline">People</span> Says?</h1>
+				<h1 class="text-center text-uppercase bolder">What <span class="text-secondary text-underline">People</span> Say?</h1>
 					
 				<div class="space-20"></div>
 					
