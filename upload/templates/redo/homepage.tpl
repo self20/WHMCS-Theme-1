@@ -54,10 +54,10 @@
 										
 										<div class="Redo-animation domains-cost" data-delay-transtion="4">
 											<ul class="list-unstyled list-inline">
-												<li>.com <span class="text-secondary">$9.99</span></li>
-												<li>.Net <span class="text-secondary">$9.99</span></li>
-												<li>.Online <span class="text-secondary">$2.99</span></li>
-												<li>.Host <span class="text-secondary">$49.00</span></li>
+												<li>.com <span class="text-secondary">$16.99</span></li>
+												<li>.net <span class="text-secondary">$19.97</span></li>
+												<li>.org <span class="text-secondary">$18.78</span></li>
+												<li>.biz <span class="text-secondary">$18.29</span></li>
 											</ul>
 										</div>
 									</div>
