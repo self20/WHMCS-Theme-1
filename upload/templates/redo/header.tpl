@@ -43,15 +43,15 @@
 					<!-- BEGIN TOP BAR LEFT PART -->
 					<div class="col-xs-5 col-sm-6">
 						<ul class="list-unstyled list-inline hidden-xs">
-{* 							<li><i class="fa fa-phone"></i><span>+91 124 2250121</span></li> *}
-							<li><i class="fa fa-envelope-o"></i><span>contact@miownsite.com</span></li>
+ 							<li><i class="fa fa-envelope-o"></i><span>contact@miownsite.com</span></li>
+{* 							<li><i class="fa fa-envelope-o"></i><span>contact@miownsite.com</span></li> *}
 						</ul>
 						<ul class="list-unstyled list-inline visible-xs">
 							<li>
-{*
-								<span  class="tooltip-primary" data-placement="right" data-rel="tooltip" title="+ 91 124 2250121">
+
+								<span  class="tooltip-primary" data-placement="right" data-rel="tooltip" title="contact@miownsite.com">
 									<i class="fa fa-phone"></i>
-*}
+
 								</span>
 							</li>
 							<li>
