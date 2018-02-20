@@ -80,7 +80,8 @@
 										<h3 class="Redo-animation" data-delay-transtion="3">Get a website that works It's quick and easy..</h3>
 											
 										<div class="buttons Redo-animation" data-delay-transtion="4">
-											<button class="btn btn-white btn-lg" role="button">Get Started Now</button>
+{* 											Link to website hosting *}
+											<a href="https://miownsite.com/web-hosting.php" button class="btn btn-white btn-lg" role="button">Get Started Now</a></button>
 												<br>
 											<button class="btn btn-white btn-lg" role="button">See all features</button>
 										</div>
@@ -390,8 +391,8 @@
 									<i class="fa fa-support text-white"></i>
 								</div>
 								<div class="media-body">
-									<h4 class="media-heading">24x7 Tech Suuport</h4>
-									<p>Our support staff is available 24x7x365 to assist you via Telephone, LiveChat, or Email with any hosting-related issues.</p>
+									<h4 class="media-heading">24x7 Tech Support</h4>
+									<p>Our support staff is available 24x7x365 to assist you via our Email ticketing system with any hosting-related issues.</p>
 								</div>
 							</div>
 						</div>
@@ -415,6 +416,7 @@
 
 		
 		
+{* TESTIMONIL CAROUSEL 
 		<div class="block-s3 padding4x">
 			<div class="container">
 				<h1 class="text-center text-uppercase bolder">What <span class="text-secondary text-underline">People</span> Say?</h1>
@@ -477,6 +479,7 @@
 				
 			</div>			
 		</div>
+*}
 		
 		
 		<div class="block-s3 sec-img-bg bg-opacity">
