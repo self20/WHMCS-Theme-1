@@ -236,7 +236,7 @@
 		
 		<div class="block-s1 inverse arrow-block">
 			<div class="container-fluid">
-				<h1 class="text-center text-uppercase bolder">Why get online with us?</h1>
+				<h1 class="text-center text-uppercase bolder">Just a few highlights!</h1>
 			</div>
 		</div>		
 
