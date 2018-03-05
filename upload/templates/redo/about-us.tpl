@@ -4,6 +4,7 @@
  * Edit date: 03/05/18
  * Edited main body content
  * Commented out Counters section
+ * DataCenter Commented out Video, Uncommented datacenter imgae
  ***********************************************************
 *}
 
@@ -37,16 +38,16 @@ mīownsīte.com offers fully managed website hosting, and premium website design
 											
 
 							<ul>
-								<li>Automatic SSL with each domain and subdomain from let's encrypt included with every account.</li>
+								<li>Automatic SSLfrom let's encrypt included with every account.</li>
 								<li>Cloudflare CDN with Railgun included with every account.</li>
-								<li>Vivamus non metus a turpis adipiscing volutpat vitae vitae libero.</li>
-								<li>Vivamus non metus a turpis adipiscing volutpat vitae vitae libero.</li>
+								<li>Serving Southern VT. and Western MA.</li>
+								<li>Locally owned and operated</li>
 							</ul>
 											
 							<div class="space-12"></div>
 											
 							<blockquote>
-								<p>We save our clients time and money by streamlining website design and hosting, you can focus your time on running your business knowing you have your technical team ready.</p>
+								<p>We save our customers time and money by streamlining website design and hosting, you can focus your time on running your business knowing you have your technical team ready.</p>
 							</blockquote>
 								
 							<p>Lid est laborum dolo rumes fugats untras. Etharums ser quidsem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
@@ -74,14 +75,16 @@ mīownsīte.com offers fully managed website hosting, and premium website design
 								<div class="Redo-thumbnail-frame">
 									
 									<div class="Redo-image-box">
+{*
 										<!-- Video-->
 										<div class="embed-responsive embed-responsive-16by9">
 											<iframe src="https://player.vimeo.com/video/176916362?title=0&byline=0&portrait=0"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 										</div>
 										<!-- Video-->
+*}
 										
 										<!--Uncomment below line if you want to use only image and remove above video section. -->
-										<!-- <img src="{$WEB_ROOT}/templates/{$template}/assets/images/sec-bg1.jpg" class="img-responsive" alt="Datacenter" /> -->
+										<img src="{$WEB_ROOT}/templates/{$template}/assets/images/sec-bg1.jpg" class="img-responsive" alt="Datacenter" />
 										
 									</div>
 								</div>
