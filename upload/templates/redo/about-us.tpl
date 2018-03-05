@@ -2,9 +2,10 @@
  **********************************************************
  * About Us by: miownsite
  * Edit date: 03/05/18
- * Edited main body content
- * Commented out Counters section
- * DataCenter Commented out Video, Uncommented datacenter imgae
+ * Main body: Edited main body content
+ * Counters: Commented out Counters section
+ * DataCenter: Commented out Video, Uncommented datacenter imgae
+ * Team Member: Commented out team member section
  ***********************************************************
 *}
 
@@ -150,6 +151,7 @@ mīownsīte.com offers fully managed website hosting, and premium website design
 				
 		
 		<!--Team Member Section-->		
+{*
 		<div class="block-s3 padding4x sec-img-bg bg-opacity inverse margin-up" style="background-image: url({$WEB_ROOT}/templates/{$template}/assets/images/sec-bg2.jpg);">
 			<div class="container-fluid">
 					
@@ -316,6 +318,7 @@ mīownsīte.com offers fully managed website hosting, and premium website design
 						
 			</div>
 		</div>
+*}
 		<!--End Team Member Section-->
 						
 		
