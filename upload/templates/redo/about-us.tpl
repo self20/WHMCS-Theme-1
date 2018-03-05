@@ -1,8 +1,10 @@
 {*
  **********************************************************
- * Developed by: Team Theme Metro
- * Website: http://www.thememetro.com
- **********************************************************
+ * About Us by: miownsite
+ * Edit date: 03/05/18
+ * Edited main body content
+ * Commented out Counters section
+ ***********************************************************
 *}
 
 
@@ -26,15 +28,17 @@
 					<div class="row">
 						<!--Company Profile-->
 						<div class="col-sm-12">
-							<h3 class="text-uppercase bolder">A Brief Description of The Company</h3>
-							<p>This is a great place to introduce your company or project and describe what you do. This about page features general company information, employee bios, and other helpful elements. Mus cras sed curae; habitasse aenean curae; enim pulvinar nisl iaculis semper suscipit dignissim aenean imperdiet tempus eu a scelerisque feugiat habitant. Diam orci litora donec potenti ornare elementum blandit tincidunt netus rutrum.</p>
+							<h3 class="text-uppercase bolder">Website Design & Hosting</h3>
+							<p>Mīownsīte.com, LLC (pronounced my-own-site) is a website design and website hosting company based in Greenfield MA, USA. 
+
+mīownsīte.com offers fully managed website hosting, and premium website design and development services.  We craft compelling, feature-rich websites that adapt to elegant use on any device.  We use modern design and coding standards to develop a custom solution based on the specific business or project needs.  We want to handle both your hosting and your website development and roll it all into one cost effective package aimed at small and medium sized business and creatives.</p>
 								
 							<div class="space-12"></div>
 											
 
 							<ul>
-								<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-								<li>Sed sit amet ligula sit amet magna dapibus interdum.</li>
+								<li>Automatic SSL with each domain and subdomain from let's encrypt included with every account.</li>
+								<li>Cloudflare CDN with Railgun included with every account.</li>
 								<li>Vivamus non metus a turpis adipiscing volutpat vitae vitae libero.</li>
 								<li>Vivamus non metus a turpis adipiscing volutpat vitae vitae libero.</li>
 							</ul>
@@ -42,7 +46,7 @@
 							<div class="space-12"></div>
 											
 							<blockquote>
-								<p>Cras blandit ut sit. Ullamcorper. Imperdiet. Lorem hendrerit phasellus varius. Condimentum Suscipit at nibh dapibus Velit velit. Habitasse risus felis imperdiet semper montes eleifend vitae penatibus varius lectus natoque dui magna iaculis hendrerit.</p>
+								<p>We save our clients time and money by streamlining website design and hosting, you can focus your time on running your business knowing you have your technical team ready.</p>
 							</blockquote>
 								
 							<p>Lid est laborum dolo rumes fugats untras. Etharums ser quidsem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
@@ -95,6 +99,7 @@
 					<!-- End datacenter information section-->
 
 						
+{*
 					<!--Counters-->
 					<div class="counter-items">
 						<div class="row">
@@ -129,6 +134,7 @@
 								<p>Award Winning</p>
 							</div>
 							<!-- Counter Item End -->
+*}
 						</div>
 					</div>
 					<!--End Counters-->
@@ -313,7 +319,7 @@
 		<!--Testimonials Section-->
 		<div class="block-s3 padding4x">
 			<div class="container">
-				<h1 class="text-center text-uppercase bolder">What <span class="text-secondary text-underline">People</span> Says?</h1>
+				<h1 class="text-center text-uppercase bolder">What <span class="text-secondary text-underline">Our Customers</span> Say</h1>
 					
 				<div class="space-20"></div>
 					
