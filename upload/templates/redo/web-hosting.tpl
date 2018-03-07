@@ -2,7 +2,7 @@
  **********************************************************
  * Developed by: miownsite.com
  * Website: http://www.miownsite.com
- * Nav tabs for OS chnage commented out
+ * Nav tabs for OS change commented out
  **********************************************************
 *}
 
