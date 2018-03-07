@@ -97,8 +97,8 @@
 							<div class="hero-outer text-center">
 								<div class="hgroup">
 									<div class="container-fluid">
-										<h1 class="Redo-animation" data-delay-transtion="2">Reseller Hosting</h1>        
-										<h3 class="Redo-animation" data-delay-transtion="3">Start Your Own Web Hosting Business Today..</h3>
+										<h1 class="Redo-animation" data-delay-transtion="2">Managed WordPress Hosting</h1>        
+										<h3 class="Redo-animation" data-delay-transtion="3">Hassle free WordPress ..</h3>
 												
 										<div class="buttons Redo-animation" data-delay-transtion="4">
 											<button class="btn btn-white btn-lg" role="button">See all features</button>
@@ -115,8 +115,8 @@
 							<div class="hero-outer">        
 								<div class="hgroup">
 									<div class="container-fluid">
-										<h1 class="Redo-animation" data-delay-transtion="2">VPS Hosting</h1>        
-										<h3 class="Redo-animation" data-delay-transtion="3">Step up to the power of a Fully Managed Cloud VPS..</h3>
+										<h1 class="Redo-animation" data-delay-transtion="2">Custom Website Design</h1>        
+										<h3 class="Redo-animation" data-delay-transtion="3">Fully responsive elegant user experince ..</h3>
 										
 										<div class="buttons Redo-animation" data-delay-transtion="4">
 											<button class="btn btn-white btn-lg" role="button">See all features</button>
@@ -133,7 +133,7 @@
 							<div class="hero-outer">        
 								<div class="hgroup">
 									<div class="container-fluid">
-										<h1 class="Redo-animation" data-delay-transtion="2">Dedicated Servers</h1>        
+										<h1 class="Redo-animation" data-delay-transtion="2">Custom Website Development</h1>        
 										<h3 class="Redo-animation" data-delay-transtion="3">Go Dedicated and get the whole box to yourself..</h3>
 										
 										<div class="buttons Redo-animation" data-delay-transtion="4">
