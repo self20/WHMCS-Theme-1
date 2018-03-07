@@ -1,7 +1,8 @@
 {*
  **********************************************************
- * Developed by: Team Theme Metro
- * Website: http://www.thememetro.com
+ * Developed by: miownsite.com
+ * Website: http://www.miownsite.com
+ * Nav tabs for OS chnage commented out
  **********************************************************
 *}
 
@@ -17,14 +18,16 @@
 								<div class="col-md-7 col-sm-12">
 									<div class="item-inner">
 									
+{*
 										<div class="sub-menu">
 											<!-- Nav tabs // For OS change -->
 											<ul class="nav nav-tabs">
-												<li class="active"><a href="web-hosting.php"><i class="fa fa-linux"></i> <span>Linux Hosting</span></a></li>
-												<li><a href="web-hosting-windows.php"><i class="fa fa-windows"></i> <span>Windows Hosting</span></a></li>												
+												<li class="active"><a href="web-hosting.php"><i class="fa fa-linux"></i> <span>Managed WordPress</span></a></li>
+												<li><a href="web-hosting-windows.php"><i class="fa fa-windows"></i> <span>Web Hosting</span></a></li>												
 											</ul>
 											<!-- Nav tabs // For OS change -->
 										</div>
+*}
 										
 										<h1><i class="fa fa-linux"></i> Web Hosting</h1>
 										<h2>Get a website that works, It's quick and easy..</h2>
@@ -54,12 +57,12 @@
 						<div class="slide-item">
 							<!-- Plan 1-->
 							<div class="Redo-pricing-table fixed-height">
-								<h4>Deluxe</h4>
+								<h4>Simple</h4>
 								<div class="desc">
 									<p>Host a single website.</p>
 								</div>										
 								<div class="price">
-									<span>$2.95</span>/mo					
+									<span>$9.95</span>/mo					
 								</div>
 								<a href="#" class="btn btn-primary btn-lg btn-block">
 									Add to Cart
@@ -86,12 +89,12 @@
 						<div class="slide-item">
 							<!-- Plan 2-->
 							<div class="Redo-pricing-table fixed-height">
-								<h4>Professional</h4>
+								<h4>Explorer</h4>
 								<div class="desc">
 									Best price for a basic site.
 								</div>							
 								<div class="price">
-									<span>$4.95</span>/mo
+									<span>$14.95</span>/mo
 								</div>						
 								<a href="#" class="btn btn-primary btn-lg btn-block">
 									Add to Cart
@@ -115,12 +118,12 @@
 						<div class="slide-item">
 							<!-- Plan 3-->
 							<div class="Redo-pricing-table fixed-height">
-								<h4>Enterprise</h4>
+								<h4>Creator</h4>
 								<div class="desc">
 									Best suitable plan for your multiple sites.
 								</div>
 								<div class="price">
-									<span>$5.95</span>/mo
+									<span>$19.95</span>/mo
 								</div>						
 								<a href="#" class="btn btn-primary btn-lg btn-block">
 									Add to Cart
@@ -153,12 +156,12 @@
 						<div class="slide-item">
 							<!-- Plan 4-->
 							<div class="Redo-pricing-table fixed-height">
-								<h4>Ultimate</h4>
+								<h4>Business</h4>
 								<div class="desc">
 									Handles the most complex sites and heaviest traffic.
 								</div>
 								<div class="price">
-									<span>$7.95</span>/mo
+									<span>$39.95</span>/mo
 								</div>						
 								<a href="#" class="btn btn-primary btn-lg btn-block">
 									Add to Cart
