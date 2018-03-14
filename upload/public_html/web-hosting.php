@@ -9,10 +9,10 @@ require __DIR__ . '/init.php';
 
 $ca = new ClientArea();
 
-$ca->setPageTitle('Web Hosting Linux');
+$ca->setPageTitle('Web Hosting');
 
 $ca->addToBreadCrumb('index.php', Lang::trans('globalsystemname'));
-$ca->addToBreadCrumb('web-hosting.php', 'Web Hosting Linux');
+$ca->addToBreadCrumb('web-hosting.php', 'Web Hosting');
 
 $ca->initPage();
 
