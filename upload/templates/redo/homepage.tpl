@@ -1,7 +1,7 @@
 {*
  **********************************************************
- * Developed by: Team Theme Metro
- * Website: http://www.thememetro.com
+ * miownsite.com 
+ * Website: http://www.miownsite.com
  **********************************************************
 *}
 		
@@ -21,7 +21,31 @@
 					
 				<div class="owl-carousel effects" id="Redo-Slider-home">
 				
-					<!-- //Domain Search Section-->
+
+
+
+					<div class="item slides">
+						<div class="slide-bg top bg-opacity" style="background-image: url({$WEB_ROOT}/templates/{$template}/assets/images/hero-bg2.jpg);">
+							
+							<div class="hero-outer">
+								<div class="hgroup">
+									<div class="container-fluid">
+										<h1 class="Redo-animation" data-delay-transtion="2">Web Hosting</h1>        
+										<h3 class="Redo-animation" data-delay-transtion="3">Get a website that works It's quick and easy..</h3>
+											
+										<div class="buttons Redo-animation" data-delay-transtion="4">
+{* 											Link to website hosting *}
+											<a href="https://miownsite.com/web-hosting.php" button class="btn btn-white btn-lg" role="button">Get Started Now</a></button>
+												<br>
+											<button class="btn btn-white btn-lg" role="button">See all features</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+						
+											<!-- //Domain Search Section-->
 					{if $registerdomainenabled || $transferdomainenabled}
 					
 					<div class="item slides">
@@ -30,7 +54,7 @@
 							<div class="hero-outer">
 								<div class="hgroup">
 									<div class="container">       
-										<h3 class="Redo-animation" data-delay-transtion="2">Create your Online Identity in Minutes....</h3>
+										<h3 class="Redo-animation" data-delay-transtion="2">Transfer your existing domain to us or purchase a new one here.</h3>
 										<form class="form-search Redo-animation" action="domainchecker.php" method="post" data-delay-transtion="3">
 											<div class="input-group">
 												<input type="hidden" value="enable" name="phrase_search">
@@ -68,28 +92,6 @@
 					
 					{/if}
 					<!-- //Domain Search Section-->
-
-
-					<div class="item slides">
-						<div class="slide-bg top bg-opacity" style="background-image: url({$WEB_ROOT}/templates/{$template}/assets/images/hero-bg2.jpg);">
-							
-							<div class="hero-outer">
-								<div class="hgroup">
-									<div class="container-fluid">
-										<h1 class="Redo-animation" data-delay-transtion="2">Web Hosting</h1>        
-										<h3 class="Redo-animation" data-delay-transtion="3">Get a website that works It's quick and easy..</h3>
-											
-										<div class="buttons Redo-animation" data-delay-transtion="4">
-{* 											Link to website hosting *}
-											<a href="https://miownsite.com/web-hosting.php" button class="btn btn-white btn-lg" role="button">Get Started Now</a></button>
-												<br>
-											<button class="btn btn-white btn-lg" role="button">See all features</button>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
 						
 					<div class="item slides">
 						<div class="slide-bg top bg-opacity" style="background-image: url({$WEB_ROOT}/templates/{$template}/assets/images/hero-bg3.jpg);">
@@ -116,7 +118,7 @@
 								<div class="hgroup">
 									<div class="container-fluid">
 										<h1 class="Redo-animation" data-delay-transtion="2">Custom Website Design</h1>        
-										<h3 class="Redo-animation" data-delay-transtion="3">Fully responsive elegant user experince ..</h3>
+										<h3 class="Redo-animation" data-delay-transtion="3">Fully responsive elegant user experience ..</h3>
 										
 										<div class="buttons Redo-animation" data-delay-transtion="4">
 											<button class="btn btn-white btn-lg" role="button">See all features</button>
@@ -127,6 +129,7 @@
 						</div>
 					</div>
 						
+{*
 					<div class="item slides">
 						<div class="slide-bg top bg-opacity" style="background-image: url({$WEB_ROOT}/templates/{$template}/assets/images/hero-bg5.jpg);">
 							
@@ -138,6 +141,7 @@
 										
 										<div class="buttons Redo-animation" data-delay-transtion="4">
 											<button class="btn btn-white btn-lg" role="button">See all features</button>
+*}
 										</div>
 									</div>
 								</div>						
@@ -332,6 +336,7 @@
 					<div class="counter-items">
 						<div class="row">
 							<!-- Counter Item Start -->
+{*
 							<div class="col-md-3 col-sm-6 col-xs-12 counter-item">
 								<i class="fa fa-globe"></i>
 								<h3 data-counter-up="numbers">1095</h3>
@@ -361,6 +366,7 @@
 								<h3 data-counter-up="numbers">299</h3>
 								<p>Award Winning</p>
 							</div>
+*}
 							<!-- Counter Item End -->
 						</div>
 					</div>
@@ -392,7 +398,7 @@
 								</div>
 								<div class="media-body">
 									<h4 class="media-heading">24x7 Tech Support</h4>
-									<p>Our support staff is available 24x7x365 to assist you via our Email ticketing system with any hosting-related issues.</p>
+									<p>Our support is available 24x7x365 to assist you via our Email ticketing system with any hosting-related issues.</p>
 								</div>
 							</div>
 						</div>
