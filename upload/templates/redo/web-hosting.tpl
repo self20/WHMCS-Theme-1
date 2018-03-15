@@ -29,12 +29,12 @@
 										</div>
 *}
 										
-										<h1><i class="fa fa-linux"></i> Web Hosting</h1>
-										<h2>Get a website that works, It's quick and easy..</h2>
+										<h1><i class="fa fa-server"></i> mīownsīte Web Hosting</h1>
+										<h2>Managed Hosting Exclusive to our Clients</h2>
 										<ul>
-											<li><i class="fa fa-check"></i> State-of-the-Art Hosting Infrastructure</li>
-											<li><i class="fa fa-check"></i> <b>99.9%</b> Uptime Guarantee</li>
-											<li><i class="fa fa-check"></i> <b>45-Days</b> Money-Back Guarantee</li>
+											<li><i class="fa fa-check"></i> Your Server Admin in the Cloud</li>
+											<li><i class="fa fa-check"></i> <b>99.9%</b> Uptime</li>
+											<li><i class="fa fa-check"></i> <b>Auto SSL</b> From Let's Encrypt included</li>
 										</ul>
 									</div>
 								</div>
@@ -62,7 +62,7 @@
 									<p>Host a single website.</p>
 								</div>										
 								<div class="price">
-									<span>$9.95</span>/mo					
+									<span>$10.00</span>/mo					
 								</div>
 								<a href="#" class="btn btn-primary btn-lg btn-block">
 									Add to Cart
@@ -74,12 +74,13 @@
 								</p>									
 										
 								<ul class="plan-features collapse" id="PlanLists1">
-									<li>Single Website</li>
-									<li><b>1000 MB</b> Storage</li>
-									<li><b>10,000 MB</b> Bandwidth</li>
-									<li><b>25</b> Email Accounts</li>
-									<li>cPanel Control Panel</li>
-									<li>Monthly Billing</li>
+									<li><b>1</b> Website</li>
+									<li><b>5</b> Subdomains</li>
+									<li><b>10 GB</b> Storage</li>
+									<li><b>50 GB</b> Bandwidth/mo</li>
+									<li><b>Auto SSL</b> Let's Encrypt</li>
+									<li><b>cPanel</b> Control Panel</li>
+									<li><b>CDN</b> Cloudflare RailGun</li>
 								</ul>
 										
 							</div>
@@ -94,7 +95,7 @@
 									Best price for a basic site.
 								</div>							
 								<div class="price">
-									<span>$14.95</span>/mo
+									<span>$15.00</span>/mo
 								</div>						
 								<a href="#" class="btn btn-primary btn-lg btn-block">
 									Add to Cart
@@ -105,13 +106,13 @@
 								</p>
 										
 								<ul class="plan-features collapse" id="PlanLists2">
-									<li>Single Website</li>
-									<li><b>5000 MB</b> Storage</li>
-									<li><b>50,000 MB</b> Bandwidth</li>
-									<li><b>25</b> Email Accounts</li>
-									<li>cPanel Control Panel</li>
-									<li>Monthly Billing</li>
-								</ul>
+									<li><b>2</b> Websites</li>
+									<li><b>5</b> Subdomains</li>
+									<li><b>15 GB</b> Storage</li>
+									<li><b>100 GB</b> Bandwidth/mo</li>
+									<li><b>Auto SSL</b> Let's Encrypt</li>
+									<li><b>cPanel</b> Control Panel</li>
+									<li><b>CDN</b> Cloudflare RailGun</li>								</ul>
 							</div>
 						</div>
 								
@@ -123,7 +124,7 @@
 									Best suitable plan for your multiple sites.
 								</div>
 								<div class="price">
-									<span>$19.95</span>/mo
+									<span>$20.00</span>/mo
 								</div>						
 								<a href="#" class="btn btn-primary btn-lg btn-block">
 									Add to Cart
@@ -134,13 +135,13 @@
 								</p>
 								
 								<ul class="plan-features collapse" id="PlanLists3">
-									<li><b>UNLIMITED</b> Website</li>
-									<li><b>10,000 MB</b> Storage</li>
-									<li><b>100,000 MB</b> Bandwidth</li>
-									<li><b>75</b> Email Accounts</li>
-									<li>cPanel Control Panel</li>
-									<li>Monthly Billing</li>
-								</ul>
+									<li><b>3</b> Websites</li>
+									<li><b>10</b> Subdomains</li>
+									<li><b>20 GB</b> Storage</li>
+									<li><b>200 GB</b> Bandwidth/mo</li>
+									<li><b>Auto SSL</b> Let's Encrypt</li>
+									<li><b>cPanel</b> Control Panel</li>
+									<li><b>CDN</b> Cloudflare RailGun</li>								</ul>
 								
 								<!-- Popular plan sticker -->
 								<div class="sticker-wrapper">
@@ -161,7 +162,7 @@
 									Handles the most complex sites and heaviest traffic.
 								</div>
 								<div class="price">
-									<span>$39.95</span>/mo
+									<span>$30.00</span>/mo
 								</div>						
 								<a href="#" class="btn btn-primary btn-lg btn-block">
 									Add to Cart
@@ -172,12 +173,13 @@
 								</p>
 										
 								<ul class="plan-features collapse" id="PlanLists4">
-									<li><b>UNLIMITED</b> Website</li>
-									<li><b>25,000 MB</b> Storage</li>
-									<li><b>250,000 MB</b> Bandwidth</li>
-									<li><b>100</b> Email Accounts</li>
-									<li>cPanel Control Panel</li>
-									<li>Monthly Billing</li>
+									<li><b>6</b> Websites</li>
+									<li><b>25</b> Subdomains</li>
+									<li><b>30 GB</b> Storage</li>
+									<li><b>300 GB</b> Bandwidth/mo</li>
+									<li><b>Auto SSL</b> Let's Encrypt</li>
+									<li><b>cPanel</b> Control Panel</li>
+									<li><b>CDN</b> Cloudflare RailGun</li>	
 								</ul>
 							</div>
 							<!-- End //Dedicated Servers -->
