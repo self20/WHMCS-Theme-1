@@ -1,0 +1,10 @@
+[06-Feb-2018 22:55:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/miownsit/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/miownsit/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/miownsit/...', true)
+#1 /home/miownsit/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/miownsit/...', true)
+#2 /home/miownsit/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/miownsit/...')
+#3 /home/miownsit/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/miownsit/public_html/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/miownsit/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/miownsit/public_html/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#7 /home/ in /home/miownsit/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
