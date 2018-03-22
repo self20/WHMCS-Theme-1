@@ -1,7 +1,7 @@
 {*
  **********************************************************
- * Developed by: miownsite.com
- * Website: http://www.miownsite.com
+ * Developed by: Team Theme Metro
+ * Website: http://www.thememetro.com
  **********************************************************
 *}
 

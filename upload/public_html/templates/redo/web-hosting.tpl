@@ -18,6 +18,7 @@
 								<div class="col-md-7 col-sm-12">
 									<div class="item-inner">
 									
+{*
 										<div class="sub-menu">
 											<!-- Nav tabs // For OS change -->
 											<ul class="nav nav-tabs">
@@ -26,6 +27,7 @@
 											</ul>
 											<!-- Nav tabs // For OS change -->
 										</div>
+*}
 										
 										<h1><i class="fa fa-server"></i> mīownsīte Web Hosting</h1>
 										<h2>Managed Hosting Exclusive to our Clients</h2>

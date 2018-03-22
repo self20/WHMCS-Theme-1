@@ -45,43 +45,7 @@
 						</div>
 					</div>
 						
-					<div class="item slides">
-						<div class="slide-bg top bg-opacity" style="background-image: url({$WEB_ROOT}/templates/{$template}/assets/images/hero-bg3.jpg);">
-							
-							<div class="hero-outer">
-								<div class="hgroup">
-									<div class="container-fluid">
-										<h1 class="Redo-animation" data-delay-transtion="2">Managed WordPress Hosting</h1>        
-										<h3 class="Redo-animation" data-delay-transtion="3">Hassle free WordPress ..</h3>
-												
-										<div class="buttons Redo-animation" data-delay-transtion="4">
-											<button class="btn btn-white btn-lg" role="button">See all features</button>
-										</div>
-									</div>	
-								</div>
-							</div>
-						</div>
-					</div>
-						
-					<div class="item slides">
-						<div class="slide-bg top bg-opacity" style="background-image: url({$WEB_ROOT}/templates/{$template}/assets/images/hero-bg4.jpg);">
-							
-							<div class="hero-outer">        
-								<div class="hgroup">
-									<div class="container-fluid">
-										<h1 class="Redo-animation" data-delay-transtion="2">Custom Website Design</h1>        
-										<h3 class="Redo-animation" data-delay-transtion="3">Mobile responsive elegant user experience ..</h3>
-										
-										<div class="buttons Redo-animation" data-delay-transtion="4">
-											<button class="btn btn-white btn-lg" role="button">See all features</button>
-										</div>
-									</div>
-								</div>							
-							</div>
-						</div>
-					</div>
-					
-																<!-- //Domain Search Section-->
+											<!-- //Domain Search Section-->
 					{if $registerdomainenabled || $transferdomainenabled}
 					
 					<div class="item slides">
@@ -90,7 +54,7 @@
 							<div class="hero-outer">
 								<div class="hgroup">
 									<div class="container">       
-										<h3 class="Redo-animation" data-delay-transtion="2">Search for your perfect domain name, or transfer your existing domain </h3>
+										<h3 class="Redo-animation" data-delay-transtion="2">Transfer your existing domain to us or purchase a new one here.</h3>
 										<form class="form-search Redo-animation" action="domainchecker.php" method="post" data-delay-transtion="3">
 											<div class="input-group">
 												<input type="hidden" value="enable" name="phrase_search">
@@ -129,6 +93,42 @@
 					{/if}
 					<!-- //Domain Search Section-->
 						
+					<div class="item slides">
+						<div class="slide-bg top bg-opacity" style="background-image: url({$WEB_ROOT}/templates/{$template}/assets/images/hero-bg3.jpg);">
+							
+							<div class="hero-outer text-center">
+								<div class="hgroup">
+									<div class="container-fluid">
+										<h1 class="Redo-animation" data-delay-transtion="2">Managed WordPress Hosting</h1>        
+										<h3 class="Redo-animation" data-delay-transtion="3">Hassle free WordPress ..</h3>
+												
+										<div class="buttons Redo-animation" data-delay-transtion="4">
+											<button class="btn btn-white btn-lg" role="button">See all features</button>
+										</div>
+									</div>	
+								</div>
+							</div>
+						</div>
+					</div>
+						
+					<div class="item slides">
+						<div class="slide-bg top bg-opacity" style="background-image: url({$WEB_ROOT}/templates/{$template}/assets/images/hero-bg4.jpg);">
+							
+							<div class="hero-outer">        
+								<div class="hgroup">
+									<div class="container-fluid">
+										<h1 class="Redo-animation" data-delay-transtion="2">Custom Website Design</h1>        
+										<h3 class="Redo-animation" data-delay-transtion="3">Fully responsive elegant user experience ..</h3>
+										
+										<div class="buttons Redo-animation" data-delay-transtion="4">
+											<button class="btn btn-white btn-lg" role="button">See all features</button>
+										</div>
+									</div>
+								</div>							
+							</div>
+						</div>
+					</div>
+						
 {*
 					<div class="item slides">
 						<div class="slide-bg top bg-opacity" style="background-image: url({$WEB_ROOT}/templates/{$template}/assets/images/hero-bg5.jpg);">
@@ -162,14 +162,14 @@
 						
 						<!-- Wrapper for pricing table --> 
 						<div class="slide-item">
-							<!-- Shared Hosting-->
+							<!-- Shred Hosting-->
 							<div class="Redo-pricing-table">
-								<h4>Hosting</h4>
+								<h4>Shared Hosting</h4>
 								<div class="desc">
 									The Next Generation Of Hosting Speed -- Security -- Scalability
 								</div>
 								<div class="price">
-									From<span>$10.00</span>/mo					
+									From<span>$2.95</span>/mo					
 								</div>
 								<a href="#" class="btn btn-primary btn-lg btn-block">
 									Choose Plan
@@ -179,9 +179,9 @@
 						<div class="slide-item">
 							<!-- Reseller Hosting-->
 							<div class="Redo-pricing-table">
-								<h4>Managed WordPress</h4>
+								<h4>Reseller Hosting</h4>
 								<div class="desc">
-									Hassle free WordPress
+									Reseller plans are designed for you to earn money!
 								</div>
 								<div class="price">
 									From<span>$24.95</span>/mo						
@@ -190,35 +190,33 @@
 									Choose Plan
 								</a>
 								<!-- Popular plan code -->
-{*
 								<div class="sticker-wrapper">
 									<div class="sticker bg-success">
 										Get FREE WHMCS
 									</div>
 								</div>
-*}
 								<!-- //End popular plan code-->
 							</div>
 						</div>
 						<div class="slide-item">
 							<!-- VPS Hosting-->
 							<div class="Redo-pricing-table">
-								<h4>Custom Design</h4>
+								<h4>VPS Hosting</h4>
 								<div class="desc">
-									Responsive WordPress Theme Design
+									Dedicated functionality, but without the expense.
 								</div>
 								<div class="price">
-									Price<span>$500.00</span>					
+									From<span>$19.95</span>/mo					
 								</div>
 								<a href="#" class="btn btn-primary btn-lg btn-block">
-									Learn more
+									Choose Plan
 								</a>
 							</div>
 						</div>
 						<div class="slide-item">
 							<!-- Dedicated Servers-->
 							<div class="Redo-pricing-table">
-								<h4>Domain Names</h4>
+								<h4>Dedicated Servers</h4>
 								<div class="desc">
 									Total control over your hosting configuration and environment.
 								</div>
